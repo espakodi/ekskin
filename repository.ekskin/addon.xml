@@ -13,7 +13,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="es_ES">Repositorio de EKSkin</summary>
 		<summary lang="en_US">EKSkin Repository</summary>
-		<description lang="es_ES">Repositorio oficial para instalar y actualizar EKSkin, skin para Kodi con siete escritorios de sistemas operativos, basada en Estuary.</description>
+		<description lang="es_ES">Repositorio oficial para instalar y actualizar EKSkin, skin para Kodi, basada en Estuary.</description>
 		<description lang="en_US">Official repository to install and update EKSkin, a Kodi skin with seven operating system desktops, based on Estuary.</description>
 		<disclaimer lang="es_ES">Skin de terceros; se puede desinstalar sin riesgo.</disclaimer>
 		<disclaimer lang="en_US">Third-party skin; safe to uninstall.</disclaimer>

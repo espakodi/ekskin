@@ -1,6 +1,6 @@
 # EKSkin - Skin para Kodi
 
-![Status](https://img.shields.io/badge/Estado-Activo-green)
+![Kodi](https://img.shields.io/badge/Kodi-21%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-green)
 
 Repositorio y más información: https://espakodi.github.io/ekskin/
 
@@ -11,5 +11,5 @@ Repositorio y más información: https://espakodi.github.io/ekskin/
 
 ### Verificación de integridad (repository.ekskin v1.0.0):
 
-- **MD5**: 733bd364e2ef93546e91dcc75c21c95d
-- **SHA-256**: 39c5ca95cf3766e77e6c4ac4b522e9dc67440e40850db32d4be679b9b9b1a43b
+- **MD5**: 423f182cd0d2a4f7127d9442216aa988
+- **SHA-256**: 843a21f4988b08eb6b59dfadcdd2a122f2a7804fff00c24f04b9cc46f9b972a3
