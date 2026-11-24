@@ -25,7 +25,7 @@
   		</assets>
   	</extension>
   </addon>
-<addon id="skin.ekskin" version="0.5.0" name="EKSkin" provider-name="RubénSDFA1laberot (mod de Estuary por phil65, Ichabod Fletchman)">
+<addon id="skin.ekskin" version="1.0.0" name="EKSkin" provider-name="RubénSDFA1laberot (mod de Estuary por phil65, Ichabod Fletchman)">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0"/>
 	</requires>
@@ -55,12 +55,12 @@
 			<screenshot>resources/screenshot-06.jpg</screenshot>
 			<screenshot>resources/screenshot-07.jpg</screenshot>
 		</assets>
-		<summary lang="en_GB">Kodi skin that imitates seven operating systems.</summary>
-		<summary lang="en_US">Kodi skin that imitates seven operating systems.</summary>
-		<summary lang="es_ES">Skin para Kodi que imita siete sistemas operativos.</summary>
-		<description lang="en_GB">A skin that imitates seven operating systems.</description>
-		<description lang="en_US">A skin that imitates seven operating systems.</description>
-		<description lang="es_ES">Skin que imita siete sistemas operativos.</description>
+		<summary lang="en_GB">Kodi skin with seven desktop themes: Windows 95, XP, 7, 10, 11, Linux and the bitten apple.</summary>
+		<summary lang="en_US">Kodi skin with seven desktop themes: Windows 95, XP, 7, 10, 11, Linux and the bitten apple.</summary>
+		<summary lang="es_ES">Skin para Kodi con siete temas de escritorio: Windows 95, XP, 7, 10, 11, Linux y la manzana mordida.</summary>
+		<description lang="en_GB">A skin that imitates operating systems. For anyone who misses the grey of W95, the blue of XP or the glass of W7. It also has W10 and 11, Linux and the bitten apple. Seven desktops for Kodi that you can switch whenever you want.</description>
+		<description lang="en_US">A skin that imitates operating systems. For anyone who misses the grey of W95, the blue of XP or the glass of W7. It also has W10 and 11, Linux and the bitten apple. Seven desktops for Kodi that you can switch whenever you want.</description>
+		<description lang="es_ES">Skin que imita sistemas operativos. Para quien echa de menos el gris de W95, el azul del XP o el cristal de W7. También tiene W10 y 11, Linux y la manzana mordida. Siete escritorios para Kodi que puedes cambiar cuando quieras.</description>
 		<disclaimer lang="en_GB">Third-party skin; safe to uninstall.</disclaimer>
 		<disclaimer lang="en_US">Third-party skin; safe to uninstall.</disclaimer>
 		<disclaimer lang="es_ES">Skin de terceros; se puede desinstalar sin riesgo.</disclaimer>
